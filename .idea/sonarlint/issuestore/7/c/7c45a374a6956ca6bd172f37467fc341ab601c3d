@@ -1,0 +1,8 @@
+
+zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "amount".(Ñƒè·ùÿÿÿÿ
+usquid:S1488%"^Immediately return this expression instead of assigning it to the temporary variable "amount".(×”‘¦
+‹"squid:ClassVariableVisibilityCheck"XMake transactions a static final constant or non-public and provide accessors if needed.(ú‰ú´ıÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ø½ãÎùÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ˆî‚À
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†Ù¬Ú
